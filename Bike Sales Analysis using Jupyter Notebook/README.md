@@ -4,9 +4,7 @@
 ![Bike Sales Data Analysis](https://github.com/aarushi50/Portfolio-Projects/assets/35843318/5c65a772-7f6d-4517-a0d3-e62392b397de)
 
 
-This analysis is based on a bike sales dataset avaialble on Kaggle.
-
-It was performed using Python (Jupyter Notebook), leveraging a range of powerful libraries and tools to gain insights into sales trends, customer behavior, and product performance by answering specific questions about the dataset.
+This analysis is based on a bike sales dataset avaialble on Kaggle. It was performed using Python (Jupyter Notebook), leveraging a range of powerful libraries and tools to gain insights into sales trends, customer behavior, and product performance by answering specific questions about the dataset.
 
 ### Key Components:
 
