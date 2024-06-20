@@ -1,3 +1,9 @@
+
+<img width="322" alt="Screenshot 2024-06-05 at 10 30 29 PM" src="https://github.com/aarushi50/Portfolio-Projects/assets/35843318/bf7628a1-14c8-4136-be5e-ddb913570c1e">
+
+
+
+
 The ShopSpectra Fraud Analytics Dashboard provides a comprehensive view of key performance indicators (KPIs), an analytics summary, and a transaction summary to detect and mitigate fraudulent activities. ShopSpectra is a fictitious e-commerce company and the data used here is synthetically generated. 
 
 
