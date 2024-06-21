@@ -8,7 +8,7 @@ Hi ! My name is Aarushi Mishra.
 
 I am a versatile data professional with a strong passion for transforming data into actionable insights. As a Business Analyst, I excel at comprehending business requirements, and as a business intelligence / data analyst, I translate those requirements into dashboards and insights. This ability to bridge the gap between business needs and data-driven solutions ensures seamless communication with stakeholders and the delivery of effective solutions.
 
-Certified Expertise: PowerBI Certified, Tableau Certified, MS Azure Certified, Pendo Certified, and (ISC)2 Certified in Cybersecurity.
+** Certified Expertise:** PowerBI Certified, Tableau Certified, MS Azure Certified, Pendo Certified, and (ISC)2 Certified in Cybersecurity.
 
 Work Style: Detail-oriented, Team Player, Hardworking
 
