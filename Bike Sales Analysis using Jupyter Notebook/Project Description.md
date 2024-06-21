@@ -18,3 +18,7 @@ In this section of work 8 to 9 anaysis questions were addressed. Answers to thes
 
 ### Reporting and Recommendations
 At the last are some findings along with strategic recommendations. These included suggestions for inventory management and targeted marketing campaigns based on the analysis of sales performance. By implementing these recommendations, the bike company can optimize its operations, enhance customer satisfaction, and increase market share.
+
+
+### Instructions:
+Please view the ipynb file avaialble in the curent repo folder.

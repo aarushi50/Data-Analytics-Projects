@@ -16,3 +16,6 @@ Overview of fraud trends, including a breakdown of fraud by payment type and dev
 
 ### 3.Transaction Summary
 Overview of transaction summary showinga list of recent transactions brokendown by purchase category, transaction status, date of transaction and overall numbers that are important to get a good picture of the scenario.
+
+### Instructions:
+Please view the PDF export of the PowerBI dashboard or downlod the .pbxi file avaialble in the current repo folder.
