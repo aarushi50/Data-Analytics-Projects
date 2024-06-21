@@ -1,7 +1,5 @@
-# BINGO - An application of Monte Carlo Simulation
 
-## Team Member(s):
-Aarushi Mishra
+![BINGO - A Monte Carlo Application](https://github.com/aarushi50/Portfolio-Projects/assets/35843318/31ffac22-6dfc-4d34-ae04-d5df811d1cba)
 
 # Monte Carlo Simulation Scenario & Purpose:
 
