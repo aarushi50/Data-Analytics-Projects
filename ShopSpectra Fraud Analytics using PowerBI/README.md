@@ -1,4 +1,4 @@
-# ShopSpectra Fraud Analytics Dashboard
+
 
 ![Shopspectra PBI](https://github.com/aarushi50/Portfolio-Projects/assets/35843318/64a1a186-434b-46e5-9631-c5ef6147a75c)
 
