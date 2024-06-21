@@ -1,5 +1,6 @@
 # ShopSpectra Fraud Analytics Dashboard
 
+![Shopspectra PBI](https://github.com/aarushi50/Portfolio-Projects/assets/35843318/64a1a186-434b-46e5-9631-c5ef6147a75c)
 
 
 
@@ -13,5 +14,5 @@ Fraud Rate, Good User Approval Rate, Approval Rate, Decline Rate, Precision, Rec
 ### 2. Anaytics Summary:
 Overview of fraud trends, including a breakdown of fraud by payment type and device type, geographical location and the time of day when fraud transaction occrred. 
 
-### 3.Trasaction Summary
+### 3.Transaction Summary
 Overview of transaction summary showinga list of recent transactions brokendown by purchase category, transaction status, date of transaction and overall numbers that are important to get a good picture of the scenario.
