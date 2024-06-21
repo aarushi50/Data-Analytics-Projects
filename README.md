@@ -4,18 +4,19 @@
 
 ![2](https://github.com/aarushi50/Portfolio-Projects/assets/35843318/35de48b0-544b-48e7-9102-d031d880fe99)
 
-Hi ! My name is Aarushi Mishra. 
+Hi ! My name is **Aarushi Mishra**. 
 
 I am a versatile data professional with a strong passion for transforming data into actionable insights. As a Business Analyst, I excel at comprehending business requirements, and as a business intelligence / data analyst, I translate those requirements into dashboards and insights. This ability to bridge the gap between business needs and data-driven solutions ensures seamless communication with stakeholders and the delivery of effective solutions.
 
-** Certified Expertise:** PowerBI Certified, Tableau Certified, MS Azure Certified, Pendo Certified, and (ISC)2 Certified in Cybersecurity.
+**Certified Expertise:** PowerBI Certified, Tableau Certified, MS Azure Certified, Pendo Certified, and (ISC)2 Certified in Cybersecurity.
 
-Work Style: Detail-oriented, Team Player, Hardworking
+**Work Style:** Detail-oriented, Team Player, Hardworking
 
-Personal Interests: Sports, Nature, Hiking, Time-travel
+**Personal Interests:** Sports, Nature, Hiking, Time-travel
 
- • Medium 🌐 https://medium.com/@mishra.aarushi02
- • LinkedIn 🌐 https://www.linkedin.com/in/aarushi-mishra-da/
+ • **Medium** 🌐 https://medium.com/@mishra.aarushi02
+ 
+ • **LinkedIn** 🌐 https://www.linkedin.com/in/aarushi-mishra-da/
 
 ### About This Github Repository
 
