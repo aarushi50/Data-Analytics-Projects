@@ -19,4 +19,4 @@ Personal Interests: Sports, Nature, Hiking, Time-travel
 
 This repo serves as a comprehensive showcase of my analytical skills, techniques, and insights derived from various datasets. It includes a range of projects that demonstrate proficiency in data cleaning, exploratory data analysis, visualization, and advanced data anlysis using tools such as Python, PowerBI, and SQL. These projects cover diverse domains such as sales analytics,fraud analytics, and market trend analysis, reflecting a versatile skill set. Interactive dashboards and detailed analysis reports are included to provide a visual representation of findings, enhancing the storytelling aspect of data. This collection not only illustrates technical expertise but also the capability to solve real-world problems through data-driven decision-making.
 
-## Thank You !
+
