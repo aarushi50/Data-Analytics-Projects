@@ -1,3 +1,5 @@
+![Churn Analysis by EXCEL](https://github.com/user-attachments/assets/465d21a5-8ed8-4805-9574-705332e2ffa8)
+
 
 This churn analysis, conducted in Excel, examines key customer segments to identify patterns driving customer attrition within a telecom provider. The analysis focuses on gender, customer tenure, contract type, and specific service attributes to determine high-risk groups. 
 
