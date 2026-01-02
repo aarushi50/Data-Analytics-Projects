@@ -2,13 +2,23 @@
 
 ### About Me 
 
-![2](https://github.com/aarushi50/Portfolio-Projects/assets/35843318/35de48b0-544b-48e7-9102-d031d880fe99)
+<img width="1584" height="396" alt="medium profile banner" src="https://github.com/user-attachments/assets/4d4220ab-fa43-4c2b-8917-32a4d55e5267" />
 
 Hi ! My name is **Aarushi Mishra**. 
 
-I am a versatile data professional with a strong passion for transforming data into actionable insights. As a Business Analyst, I excel at comprehending business requirements, and as a business intelligence / data analyst, I translate those requirements into dashboards and insights. This ability to bridge the gap between business needs and data-driven solutions ensures seamless communication with stakeholders and the delivery of effective solutions.
+I am a data analytics professional and an aspiring cybersecurity professional with over five years of experience in business intelligence, reporting, and data-driven decision support. My background includes translating complex data into clear dashboards, KPIs, and insights that support operational and leadership teams.
 
-**Certified Expertise:** PowerBI Certified, Tableau Certified, MS Azure Certified, Pendo Certified, and (ISC)2 Certified in Cybersecurity.
+In recent years, I have been intentionally transitioning into cybersecurity, with a growing focus on SOC operations, security analytics, and vulnerability risk analysis. I am building hands-on experience through structured projects, certifications, and practical analysis of security datasets, applying my analytics foundation to security and technology risk use cases.
+
+**Certified Expertise:** CompTIA Security+
+
+- Practical SOC Analyst Associate (In Progress) – TCM Security
+- Certified in Cybersecurity (CC) – (ISC)²
+- Splunk Core Certified Power User
+- Vulnerability Management Training – Qualys
+- Microsoft Power BI Data Analyst Associate
+- Microsoft Azure Fundamentals
+- Cisco Verified Python Essentials
 
 **Work Style:** Detail-oriented, Team Player, Hardworking
 
@@ -20,6 +30,10 @@ I am a versatile data professional with a strong passion for transforming data i
 
 ### About This Github Repository
 
-This repo serves as a comprehensive showcase of my analytical skills, techniques, and insights derived from various datasets. It includes a range of projects that demonstrate proficiency in data cleaning, exploratory data analysis, visualization, and advanced data anlysis using tools such as Python, PowerBI, and SQL. These projects cover diverse domains such as sales analytics,fraud analytics, and market trend analysis, reflecting a versatile skill set. Interactive dashboards and detailed analysis reports are included to provide a visual representation of findings, enhancing the storytelling aspect of data. This collection not only illustrates technical expertise but also the capability to solve real-world problems through data-driven decision-making.
+This repository showcases a collection of data analytics and security analytics projects that reflect both my established analytics background and my ongoing transition into cybersecurity. The projects demonstrate practical experience in data preparation, exploratory analysis, KPI design, dashboarding, trend analysis, and executive-level reporting.
+
+Included work spans vulnerability risk analysis, reporting, fraud analytics, and business intelligence, using tools such as Google Sheets, Python, SQL, Power BI, and Tableau. Several projects are designed to simulate real-world security operations scenarios, focusing on how security data is analyzed, prioritized, and communicated to support risk-aware decision-making.
+
+Dashboards, analysis files, and executive summary reports are included to highlight not only technical skills, but also the ability to translate security data into clear, actionable insights for stakeholders.
 
 
