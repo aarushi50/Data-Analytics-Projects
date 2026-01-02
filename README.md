@@ -4,6 +4,8 @@
 
 <img width="1584" height="396" alt="medium profile banner" src="https://github.com/user-attachments/assets/4d4220ab-fa43-4c2b-8917-32a4d55e5267" />
 
+
+
 Hi ! My name is **Aarushi Mishra**. 
 
 I am a data analytics professional and an aspiring cybersecurity professional with over five years of experience in business intelligence, reporting, and data-driven decision support. My background includes translating complex data into clear dashboards, KPIs, and insights that support operational and leadership teams.
