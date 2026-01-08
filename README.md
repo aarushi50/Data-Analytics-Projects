@@ -18,6 +18,7 @@ Data preparation, exploratory analysis, KPI design, dashboarding, trend analysis
 
 
 
+<br>
 ## Hi ! My name is **Aarushi Mishra**. 
 
 I am a data analytics professional and an aspiring cybersecurity professional with over five years of experience in business intelligence, reporting, and data-driven decision support. My background includes translating complex data into clear dashboards, KPIs, and insights that support operational and leadership teams.
@@ -41,7 +42,7 @@ In recent years, I have been intentionally transitioning into cybersecurity, wit
 
  • **Medium** 🌐 https://medium.com/@mishra.aarushi02
  
- • **LinkedIn** 🌐 https://www.linkedin.com/in/aarushi-mishra-da/
+ • **LinkedIn** 🌐 https://www.linkedin.com/in/aarushi-mishra-uiuc/
 
 
 
