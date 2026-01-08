@@ -1,4 +1,4 @@
-# Welcome to my Data Analytics Portfolio! 🙋‍♀️
+# Welcome to my Portfolio! 🙋‍♀️
 
 ### About Me 
 
