@@ -10,6 +10,7 @@ Vulnerability risk analysis, security reporting, and simulated security operatio
 - **Analytics & Business Intelligence**:
 Data preparation, exploratory analysis, KPI design, dashboarding, trend analysis, and executive reporting using Python, SQL, Google Sheets, Power BI, and Tableau, including fraud and performance analytics.
 
+<br>
 
 ### About Me 
 
