@@ -1,6 +1,6 @@
 # Welcome to my Portfolio! 🙋‍♀️
 
-### About This Github Repository
+### Quick Note About This Repository
 
 This repository showcases projects reflecting my background in data analytics and my knowledge of cybersecurity and security analytics, with a focus on practical analysis and stakeholder-focused reporting.
 
@@ -12,8 +12,6 @@ Data preparation, exploratory analysis, KPI design, dashboarding, trend analysis
 \
 \
 \
-\
-
 ### About Me 
 
 <img width="1584" height="396" alt="medium profile banner" src="https://github.com/user-attachments/assets/4d4220ab-fa43-4c2b-8917-32a4d55e5267" />
