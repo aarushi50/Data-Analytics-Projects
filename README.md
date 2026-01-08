@@ -33,10 +33,14 @@ In recent years, I have been intentionally transitioning into cybersecurity, wit
 
 ### About This Github Repository
 
-This repository showcases a collection of data analytics and security analytics projects that reflect both my established analytics background and my ongoing transition into cybersecurity. The projects demonstrate practical experience in data preparation, exploratory analysis, KPI design, dashboarding, trend analysis, and executive-level reporting.
+This repository showcases projects reflecting my background in data analytics and my knowledge of cybersecurity and security analytics, with a focus on practical analysis and stakeholder-focused reporting.
 
-Included work spans vulnerability risk analysis, reporting, fraud analytics, and business intelligence, using tools such as Google Sheets, Python, SQL, Power BI, and Tableau. Several projects are designed to simulate real-world security operations scenarios, focusing on how security data is analyzed, prioritized, and communicated to support risk-aware decision-making.
+- **Cybersecurity & Security Analytics**:
+Vulnerability risk analysis, security reporting, and simulated security operations use cases, demonstrating how security data is analyzed, prioritized, and communicated to support risk-aware decision-making.
 
-Dashboards, analysis files, and executive summary reports are included to highlight not only technical skills, but also the ability to translate security data into clear, actionable insights for stakeholders.
+- **Analytics & Business Intelligence**:
+Data preparation, exploratory analysis, KPI design, dashboarding, trend analysis, and executive reporting using Python, SQL, Google Sheets, Power BI, and Tableau, including fraud and performance analytics.
+
+
 
 
